@@ -8,5 +8,9 @@ Os slides não são inteiramente de minha autoria, tendo utilizado modelos de sl
 disponibilizados pelos autores dos livros utilizados como referência, assim
 como slides de colegas disponívels publicamente.
 
+A grande maioria do conteúdo que eu ensino, não foi criado por mim, assim como a bibliografia da disciplina, por exemplo.
+
+Caso você veja algum material seu disponibilizado aqui que esteja na íntegra ou que eu tenha adaptado para as necessidades dos alunos e queira que eu remova, por favor, entre em contato.
+
 Caso faça melhorias e queira compartilhar, fique a vontade para criar um merge request :-)
 
