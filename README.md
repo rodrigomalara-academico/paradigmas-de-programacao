@@ -1,9 +1,8 @@
-# Conteúdo do Repositório - Paradigmas de Programação
+# Paradigmas de Programação
 
 Neste repositório, você encontrará:
 
 * Slides de aula: Organizados por tópicos, cobrindo os principais conceitos de Paradigmas de Programação (Imperativo, Funcional, Orientado a Objetos, Lógico, etc.).
-  * Nota sobre autoria: Os slides não são inteiramente de minha autoria. Utilizei como base modelos disponibilizados pelos autores dos livros adotados como referência, bem como materiais de colegas compartilhados publicamente. Adaptei esse conteúdo às necessidades didáticas dos alunos, mantendo a estrutura original quando pertinente.
 
 * Exemplos de código: Implementações em linguagens como Python, C++, Prolog e Java para ilustrar cada paradigma.
 
@@ -16,6 +15,7 @@ A grande maioria do conteúdo aqui disponibilizado — incluindo a bibliografia 
 Meu papel foi organizar, adaptar e contextualizar esses recursos para o contexto da UNIARA.
 
 ## Como Utilizar
+
 * Estudantes: Acessem os slides antes das aulas para preparação ou após para revisão. Os códigos-exemplo podem ser clonados/modificados para experimentação.
 
 * Professores: Sintam-se à vontade para adaptar o material às suas necessidades (atribuição é apreciada, mas não obrigatória).
