@@ -1,16 +1,33 @@
-# Material didático para a disciplina de Paradigmas de Programação
+# Conteúdo do Repositório - Paradigmas de Programação
 
-Tenho lecionado Sistemas Operacionais nos últimos anos nos cursos de graduação
-em Engenharia de Computação e Sistemas de Informação da Universidade de Araraquara - UNIARA
-e disponibilizo aqui materiais que tenho utilizado em sala de aula.
+Neste repositório, você encontrará:
 
-Os slides não são inteiramente de minha autoria, tendo utilizado modelos de slides 
-disponibilizados pelos autores dos livros utilizados como referência, assim
-como slides de colegas disponívels publicamente.
+* Slides de aula: Organizados por tópicos, cobrindo os principais conceitos de Paradigmas de Programação (Imperativo, Funcional, Orientado a Objetos, Lógico, etc.).
+  * Nota sobre autoria: Os slides não são inteiramente de minha autoria. Utilizei como base modelos disponibilizados pelos autores dos livros adotados como referência, bem como materiais de colegas compartilhados publicamente. Adaptei esse conteúdo às necessidades didáticas dos alunos, mantendo a estrutura original quando pertinente.
 
-A grande maioria do conteúdo que eu ensino, não foi criado por mim, assim como a bibliografia da disciplina, por exemplo.
+* Exemplos de código: Implementações em linguagens como Python, C++, Prolog e Java para ilustrar cada paradigma.
 
-Caso você veja algum material seu disponibilizado aqui que esteja na íntegra ou que eu tenha adaptado para as necessidades dos alunos e queira que eu remova, por favor, entre em contato.
+* Exercícios: Listas práticas com desafios para consolidar o aprendizado.
 
-Caso faça melhorias e queira compartilhar, fique a vontade para criar um merge request :-)
+## Sobre o material
 
+A grande maioria do conteúdo aqui disponibilizado — incluindo a bibliografia da disciplina — foi desenvolvido por terceiros (autores de referência, educadores e comunidades acadêmicas).
+
+Meu papel foi organizar, adaptar e contextualizar esses recursos para o contexto da UNIARA.
+
+## Como Utilizar
+* Estudantes: Acessem os slides antes das aulas para preparação ou após para revisão. Os códigos-exemplo podem ser clonados/modificados para experimentação.
+
+* Professores: Sintam-se à vontade para adaptar o material às suas necessidades (atribuição é apreciada, mas não obrigatória).
+
+## Contribuições
+Correções, sugestões ou adições são bem-vindas! Basta:
+
+* Abrir uma issue para discutir a mudança.
+* Enviar um pull request com a contribuição.
+
+A educação é colaborativa por natureza – juntos, podemos melhorar este recurso para a comunidade!
+
+Rodrigo Malara
+
+Atualizado em 25 de junho de 2025
